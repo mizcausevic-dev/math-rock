@@ -12,6 +12,16 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
+      "path": "README.md",
+      "bytes": 3114,
+      "sha256": "53f9f4d53e2a1781f1693f1157f9290a2eeb4b14ff86aaa0e2c1cd3082e9b375"
+    },
+    {
+      "path": "RENDERER-METADATA-CORRECTION.md",
+      "bytes": 753,
+      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
+    },
+    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -43,8 +53,8 @@
     },
     {
       "path": "catalog/patch-recipes.json",
-      "bytes": 1593,
-      "sha256": "b33fa456d30cd5040b5f6fbc8671df0637217a97725f7a4420f04038ed12c966"
+      "bytes": 1815,
+      "sha256": "08591f5f21a8992ede399b705c4638b519c9e9040cf6f221788bb864a9880e68"
     },
     {
       "path": "catalog/release-spec.json",
@@ -78,8 +88,8 @@
     },
     {
       "path": "downloads/math-rock-midi.zip",
-      "bytes": 34961,
-      "sha256": "a41c447107974cdf8d280ce3d32d5e41f826e37b38448bfa86d5e0dfa19f257f"
+      "bytes": 36468,
+      "sha256": "387ee8e1a53ea0c09297c7d527574732cd47c19b3b71c243200b5eb37eacb492"
     },
     {
       "path": "index.html",
@@ -233,13 +243,8 @@
     },
     {
       "path": "preview/preview-manifest.json",
-      "bytes": 1041,
-      "sha256": "ea48d5391c5eadeab3337d0948493398069f67e6797b293d9c78214f7fe60104"
-    },
-    {
-      "path": "README.md",
-      "bytes": 2953,
-      "sha256": "d7ab3637eac54a7d3763101120538a0966307716c0ddbb5781e78b077fd012c2"
+      "bytes": 1124,
+      "sha256": "328dae420bb57161500b68ddcf3a83e3eeb15e3aacc8385c609aa27eabc9c447"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -253,13 +258,13 @@
     },
     {
       "path": "tools/build_footwork.py",
-      "bytes": 46672,
-      "sha256": "d746782d6acd6b1dcde4190527544e5b59765b73e6c01ec1f66af5e2ac057532"
+      "bytes": 46932,
+      "sha256": "bcf2c82d909ad5b5b4afce885c34f9a2c2e799660d5c3cda80ec89beffa6f994"
     },
     {
       "path": "tools/build_release.py",
-      "bytes": 47317,
-      "sha256": "c03364c461c23c884745fed0b76c6e917ef0d690b14bcf83bb5e30ce46008704"
+      "bytes": 47494,
+      "sha256": "d94746bf32efb84ea19b00f0ce2afdd356933c40b611b13b79d3395bed131f1d"
     },
     {
       "path": "tools/validate_release.py",
