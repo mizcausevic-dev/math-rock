@@ -1,0 +1,26 @@
+{
+  "title": "Math Rock",
+  "study": "mr01",
+  "bpm": 132,
+  "source_audio": "preview/math-rock-simple-synth-preview.mp3",
+  "source_audio_sha256": "125d50da05aa0da57f5a16cc7eb1b17131d357111f94c8db7cc8a81bf788383c",
+  "source_midi": "midi/mr01-bracket-form/mr01-bracket-form-combined.mid",
+  "source_midi_sha256": "1c040a2e8f95998817ee5c30608ec602077de8e7723b3931ba7dd6102f888274",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "1e95a5203dfb0f08f2335b8ab76db391991e9df1cc8ff61c96b5b9d7f70b9842",
+  "art_source_file": "film/motion-artwork.webp",
+  "art_source_sha256": "06ee9d31ee054893dc830b71bc6da7de20aa2236d382d884f0bb7c67fb7b75de",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "b41ed103a697db4fab2cee7a732aec5b54978a7ba82851233a7aff758e2d7b5e",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
