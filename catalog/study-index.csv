@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+mr01,Bracket Form,pack-local equal-tempered pitch collection,D,132,4/4,480,32,61440,midi/mr01-bracket-form/mr01-bracket-form-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+mr02,Five Against,pack-local equal-tempered pitch collection,F,132,4/4,480,32,61440,midi/mr02-five-against/mr02-five-against-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+mr03,Glass Mark,pack-local equal-tempered pitch collection,G#,132,4/4,480,32,61440,midi/mr03-glass-mark/mr03-glass-mark-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+mr04,Thread Return,pack-local equal-tempered pitch collection,D#,132,4/4,480,32,61440,midi/mr04-thread-return/mr04-thread-return-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
