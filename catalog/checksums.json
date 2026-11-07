@@ -12,21 +12,6 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "MOTION-PREVIEW.md",
-      "bytes": 780,
-      "sha256": "c1ff8b38d8b0b23cf600659ab1ebc610946d61d8e889dddadf5c92132af0596d"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3114,
-      "sha256": "53f9f4d53e2a1781f1693f1157f9290a2eeb4b14ff86aaa0e2c1cd3082e9b375"
-    },
-    {
-      "path": "RENDERER-METADATA-CORRECTION.md",
-      "bytes": 753,
-      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
-    },
-    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -93,8 +78,8 @@
     },
     {
       "path": "downloads/math-rock-midi.zip",
-      "bytes": 36468,
-      "sha256": "387ee8e1a53ea0c09297c7d527574732cd47c19b3b71c243200b5eb37eacb492"
+      "bytes": 37455,
+      "sha256": "f938c0d63c381f923c8d55fed0f50a67e3360cd72271bc66c9bc7e305eee5e65"
     },
     {
       "path": "film/motion-artwork.webp",
@@ -128,8 +113,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9314,
-      "sha256": "30c806e72797a5770cce85f64761fd3a21a87890e09f83d38c37fd0080726596"
+      "bytes": 9504,
+      "sha256": "2440ed8df369f415218db9e5c48aebef72f11ac197d70958c61df3b8ecaff09f"
     },
     {
       "path": "midi/mr01-bracket-form/chord_pulse.mid",
@@ -272,6 +257,16 @@
       "sha256": "0032beda1ab1bf7025d7d309e2c8a4926707262651b3c8ed4367f0e395d76ced"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 780,
+      "sha256": "c1ff8b38d8b0b23cf600659ab1ebc610946d61d8e889dddadf5c92132af0596d"
+    },
+    {
       "path": "preview/math-rock-simple-synth-preview.mp3",
       "bytes": 1410029,
       "sha256": "125d50da05aa0da57f5a16cc7eb1b17131d357111f94c8db7cc8a81bf788383c"
@@ -280,6 +275,16 @@
       "path": "preview/preview-manifest.json",
       "bytes": 1124,
       "sha256": "328dae420bb57161500b68ddcf3a83e3eeb15e3aacc8385c609aa27eabc9c447"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3229,
+      "sha256": "29b668215ab19e1b46a5a24d27771b4da7eab1d5d89b1df1540fd3226d8dc7f5"
+    },
+    {
+      "path": "RENDERER-METADATA-CORRECTION.md",
+      "bytes": 753,
+      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
     },
     {
       "path": "social/instagram/caption.txt",
